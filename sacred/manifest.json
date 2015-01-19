@@ -1,0 +1,47 @@
+{
+  "status":"200",
+  "version":"1.1",
+  "payload":{
+    "sacreds":[
+      {
+        "title":"15分钟专业催眠",
+        "config": [
+          {"name":"Hypnosis15.mp3","volume":"0.5"},
+          {"name":"Cricket.mp3","volume":"0.3"}
+        ],
+        "category":"催眠",
+        "desc":"由专业声学实验室打造,采用载波和双声拍混合变频技术混合夏夜蟋蟀的鸣唱,引导脑波从8.6赫兹α模式逐步过渡到1赫兹低δ模式,完成整个催眠过程。15分钟为一个完整周期。佩戴耳机使用效果最佳。",
+        "duration":"15",
+        "image":"moonlight-night.jpg",
+        "imageUrl":"https://coding.net/u/robi/p/res/git/raw/master/sacred/images/moonlight-night.jpg"
+      },
+      {
+        "title":"30分钟专业催眠",
+        "config": [
+          {"name":"Hypnosis30.mp3","volume":"0.5"},
+          {"name":"Singing.mp3","volume":"0.5"}
+        ],
+        "category":"催眠",
+        "desc":"由专业声学实验室打造,采用载波和双声拍混合变频技术+神圣的吟唱,引导脑波从8.6赫兹α模式逐步过渡到1赫兹低δ模式,完成整个催眠过程。30分钟为一个完整周期，建议15分钟内仍不能快速入睡的用户采用。佩戴耳机使用效果最佳。",
+        "duration":"30",
+        "image":"bg-sea1.jpg",
+        "imageUrl":"https://coding.net/u/robi/p/res/git/raw/master/sacred/images/bg-sea1.jpg"
+      }
+    ],
+    
+    "sounds":[
+      {
+        "title":"Hypnosis15",
+        "name":"Hypnosis15.mp3",
+        "category":"Binaural Beats",
+        "url":"https://coding.net/u/robi/p/res/git/raw/master/sacred/sounds/Hypnosis15.mp3"
+      },
+      {
+        "title":"Hypnosis30",
+        "name":"Hypnosis30.mp3",
+        "category":"Binaural Beats",
+        "url":"https://coding.net/u/robi/p/res/git/raw/master/sacred/sounds/Hypnosis30.mp3"
+      }
+    ]
+  }
+}
