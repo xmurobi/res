@@ -1,0 +1,47 @@
+{
+  "status":"200",
+  "version":"1.1",
+  "payload":{
+    "sacreds":[
+      {
+        "title":"Professional Hypnosis(15 mins)",
+        "config": [
+          {"name":"Hypnosis15.mp3","volume":"0.5"},
+          {"name":"Cricket.mp3","volume":"0.3"}
+        ],
+        "category":"Hypnosis",
+        "desc":"Created By professional acoustics laboratory. Use dual frequency technology. Mixing with summer crickets singing, guided the brainwave patterns from 8.6 Hz α gradual transition to 1 Hz low δ mode. 15 minutes for a hypnotical cycle. Best for wearing headphones.",
+        "duration":"15",
+        "image":"moonlight-night.jpg",
+        "imageUrl":"https://coding.net/u/robi/p/res/git/raw/master/sacred/images/moonlight-night.jpg"
+      },
+      {
+        "title":"Professional Hypnosis(30 mins)",
+        "config": [
+          {"name":"Hypnosis30.mp3","volume":"0.5"},
+          {"name":"Singing.mp3","volume":"0.5"}
+        ],
+        "category":"Hypnosis",
+        "desc":"Created By professional acoustics laboratory. Use dual frequency technology. Mixing with sacred singing, guided the brainwave patterns from 8.6 Hz α gradual transition to 1 Hz low δ mode. 30 minutes for a hypnotical cycle(For people who had serious insomnia and 15 mins cycle not work very well). Best for wearing headphones.",
+        "duration":"30",
+        "image":"bg-sea1.jpg",
+        "imageUrl":"https://coding.net/u/robi/p/res/git/raw/master/sacred/images/bg-sea1.jpg"
+      }
+    ],
+    
+    "sounds":[
+      {
+        "title":"Hypnosis15",
+        "name":"Hypnosis15.mp3",
+        "category":"Binaural Beats",
+        "url":"https://coding.net/u/robi/p/res/git/raw/master/sacred/sounds/Hypnosis15.mp3"
+      },
+      {
+        "title":"Hypnosis30",
+        "name":"Hypnosis30.mp3",
+        "category":"Binaural Beats",
+        "url":"https://coding.net/u/robi/p/res/git/raw/master/sacred/sounds/Hypnosis30.mp3"
+      }
+    ]
+  }
+}
