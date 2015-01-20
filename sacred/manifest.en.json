@@ -4,7 +4,7 @@
   "payload":{
     "sacreds":[
       {
-        "title":"Professional Hypnosis(15 mins)",
+        "title":"Hypnosis(15 mins)",
         "config": [
           {"name":"Hypnosis15.mp3","volume":"0.5"},
           {"name":"Cricket.mp3","volume":"0.3"}
@@ -16,7 +16,7 @@
         "imageUrl":"https://coding.net/u/robi/p/res/git/raw/master/sacred/images/moonlight-night.jpg"
       },
       {
-        "title":"Professional Hypnosis(30 mins)",
+        "title":"Hypnosis(30 mins)",
         "config": [
           {"name":"Hypnosis30.mp3","volume":"0.5"},
           {"name":"Singing.mp3","volume":"0.5"}
